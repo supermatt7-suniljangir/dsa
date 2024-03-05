@@ -37,5 +37,11 @@ int main() {
     else
         cout << "Element not found" << endl;
     
+    
     return 0;
+
+    // //  directory="/mnt/c/Users/walke/codefolder-main/data\ structures"
+    // find "$directory" -type f -name "*.exe" -delete
 }
+// find /mnt/c/Users/walke/codefolder-main/data\ structures -type f -name "*.exe" -exec rm {} +
+
